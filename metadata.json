@@ -1,0 +1,6 @@
+{
+  "name": "AMVIS - AMLO Vision Intelligent System",
+  "description": "ระบบสกัดและวิเคราะห์ข้อมูลคดีอัจฉริยะ สำนักงาน ปปง. โทนสว่าง มินิมอล รองรับทุกอุปกรณ์ แผนที่ GIS และ Dynamic Workflow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
